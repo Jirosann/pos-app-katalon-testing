@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC03_Tambah_Satu_Produk</name>
+   <tag></tag>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>createdByName</key>
+            <value>Muhammad Nabil Al Qadri</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByName</key>
+            <value>Muhammad Nabil Al Qadri</value>
+         </entry>
+         <entry>
+            <key>createdByUuid</key>
+            <value>f581e590-717c-4c81-bb8b-4eb894e25dd1</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByUuid</key>
+            <value>f581e590-717c-4c81-bb8b-4eb894e25dd1</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c3eaf967-b9d6-4f8e-8186-a26f7e4f684b</testCaseGuid>
+</TestCaseEntity>

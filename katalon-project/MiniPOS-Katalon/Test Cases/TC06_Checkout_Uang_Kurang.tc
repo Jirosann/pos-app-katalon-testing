@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC06_Checkout_Uang_Kurang</name>
+   <tag></tag>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>createdByName</key>
+            <value>Muhammad Nabil Al Qadri</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByName</key>
+            <value>Muhammad Nabil Al Qadri</value>
+         </entry>
+         <entry>
+            <key>createdByUuid</key>
+            <value>f581e590-717c-4c81-bb8b-4eb894e25dd1</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByUuid</key>
+            <value>f581e590-717c-4c81-bb8b-4eb894e25dd1</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4d5c182c-0c9b-45fa-bae8-a621e8607810</testCaseGuid>
+</TestCaseEntity>

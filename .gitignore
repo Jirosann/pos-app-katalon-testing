@@ -1,0 +1,31 @@
+# dependencies dan build
+node_modules/
+.expo/
+dist/
+web-build/
+android/
+ios/
+*.apk
+*.aab
+*.keystore
+*.jks
+
+# env dan file lokal
+.env
+.env.*
+local.properties
+*.log
+.DS_Store
+Thumbs.db
+
+# editor
+.vscode/
+.idea/
+
+# katalon
+**/Reports/
+**/bin/
+**/.classpath
+**/.project
+**/.settings/
+**/.katalon/
